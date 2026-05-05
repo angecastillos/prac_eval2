@@ -1,5 +1,6 @@
 from random import randint
 
+
 minimo = int(input("limite minimo:")) 
 maximo = int(input("limite maximo:")) 
 aleatorio = randint(minimo, maximo) 
